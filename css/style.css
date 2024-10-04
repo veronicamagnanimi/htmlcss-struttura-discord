@@ -126,7 +126,7 @@
     border: 1px dashed black;
     background-color: rgb(5, 150, 70);
     display: flex;
-    margin: auto;
+    justify-content: center;
+    align-items: center;
     height: 350px;
-    width: 70%;
   }
