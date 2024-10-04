@@ -173,4 +173,5 @@
  .bordo {
     background-color: rgb(240, 128, 128);;
     border: solid 1px rgb(0, 0, 0);
+    padding: 5px;
  }
