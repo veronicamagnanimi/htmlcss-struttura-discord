@@ -45,8 +45,8 @@
     background-color: rgb(238, 130, 238);
     display: flex;
     margin: auto;
-    height: 200px;
-    width: 30%;
+    height: 250px;
+    width: 50%;
   }
 
   .seconda-sezione {
@@ -110,4 +110,23 @@
   .row3 {
     display: flex;
     justify-content: space-around;
+  }
+
+  .quinta-sezione {
+    background-color: rgb(211, 211, 211);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* DEBUG */
+    height: 500px;
+  }
+
+  .box2 {
+    border: 1px dashed black;
+    background-color: rgb(5, 150, 70);
+    display: flex;
+    margin: auto;
+    height: 350px;
+    width: 70%;
   }
